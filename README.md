@@ -1,0 +1,2 @@
+# tecinit
+initiating tech
